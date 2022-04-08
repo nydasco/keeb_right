@@ -1,0 +1,33 @@
+{
+    "keyboard_name": "nydas_right",
+    "url": "",
+    "maintainer": "qmk",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K05 (D4,B3)", "x": 6.5, "y": 0 },
+                { "label": "K04 (D4,B1)", "x": 7.5, "y": 0 },
+                { "label": "K03 (D4,F7)", "x": 8.5, "y": 0 },
+                { "label": "K02 (D4,F6)", "x": 9.5, "y": 0 },
+                { "label": "K01 (D4,F5)", "x": 10.5, "y": 0 },
+                { "label": "K00 (D4,F4)", "x": 11.5, "y": 0 },
+                { "label": "K15 (C6,B3)", "x": 6.5, "y": 1 },
+                { "label": "K14 (C6,B1)", "x": 7.5, "y": 1 },
+                { "label": "K13 (C6,F7)", "x": 8.5, "y": 1 },
+                { "label": "K12 (C6,F6)", "x": 9.5, "y": 1 },
+                { "label": "K11 (C6,F5)", "x": 10.5, "y": 1 },
+                { "label": "K10 (C6,F4)", "x": 11.5, "y": 1 },
+                { "label": "K25 (D7,B3)", "x": 6.5, "y": 2 },
+                { "label": "K24 (D7,B1)", "x": 7.5, "y": 2 },
+                { "label": "K23 (D7,F7)", "x": 8.5, "y": 2 },
+                { "label": "K22 (D7,F6)", "x": 9.5, "y": 2 },
+                { "label": "K21 (D7,F5)", "x": 10.5, "y": 2 },
+                { "label": "K35 (E6,B3)", "x": 6.5, "y": 3.5 },
+                { "label": "K34 (E6,B1)", "x": 7.5, "y": 3.5 },
+                { "label": "K33 (E6,F7)", "x": 8.5, "y": 3.5 }
+            ]
+        }
+    }
+    ,"meta": "https://noroadsleft.github.io/kbf_qmk_converter/"
+}
+
